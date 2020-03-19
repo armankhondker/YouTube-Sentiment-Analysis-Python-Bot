@@ -7,3 +7,7 @@ From the original repository, **"Our assignment was to “Develop a B2B pricing 
 Our Hackthon team chose to analyze the camera industry. This bot was integral in analyzing our chosen industry because it provided Real Time User Sentiment and Dynamic Feedback on our product. Additionally, this bot can potentially allow a business to make dynamic pricing decisions based on competitor pricing and supplementing our price estimator. 
 
 I have provided two products to the potential end customer. The first product is the main.py bot which allows the customer to enter a specific video id and analyze it's sentiment distribution. The second product is the loop.py bot which allows the customer to run the bot on a database of video ids in order to gain insight on a larger scope of videos. Lastly, I have provided some example data visualizations for few specific cameras that we analyzed using this bot. 
+
+# Technologies
+* Frontend: ReactJS
+* Backend: Python, Natural Language Toolkit Library, Flask 
