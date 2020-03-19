@@ -8,6 +8,6 @@ Our Hackthon team chose to analyze the camera industry. This bot was integral in
 
 I have provided two products to the potential end customer. The first product is the main.py bot which allows the customer to enter a specific video id and analyze it's sentiment distribution. The second product is the loop.py bot which allows the customer to run the bot on a database of video ids in order to gain insight on a larger scope of videos. Lastly, I have provided some example data visualizations for few specific cameras that we analyzed using this bot. 
 
-# Technologies
+# Technologies Used
 * Frontend: ReactJS
 * Backend: Python, Natural Language Toolkit Library, Flask 
