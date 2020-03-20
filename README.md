@@ -10,4 +10,4 @@ I have provided two products to the potential end customer. The first product is
 
 # Technologies Used
 * Frontend: ReactJS
-* Backend: Python, Natural Language Toolkit Library, Flask 
+* Backend: Python, Natural Language Toolkit Library, Flask, Scikit-Learn
