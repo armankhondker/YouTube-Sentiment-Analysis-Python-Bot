@@ -1,3 +1,5 @@
+![build-passing](https://img.shields.io/badge/build-passing-brightgreen) ![test-passing](https://img.shields.io/badge/test-passing-brightgreen)
+
 # YouTube-Comment-Sentiment-Analysis-Python-Bot
 
 For the PROS Hackathon 2018, I wrote a Python Bot that utilizes YouTube's Data V3 API to parse the comments of any YouTube video given a unique video id into a CSV file. Next, I utilized the NLTK Python Library along with the Vader Lexicon to rank each comment based on sentiment. 
